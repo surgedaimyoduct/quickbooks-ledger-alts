@@ -1,0 +1,9 @@
+{
+  "product": "Ledger Workflows",
+  "version": "7.8.7",
+  "channel": "stable",
+  "updated": "2026-11-17",
+  "mirror_region": "global",
+  "auto_update": true,
+  "telemetry": false
+}
